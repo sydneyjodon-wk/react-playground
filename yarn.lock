@@ -1626,9 +1626,9 @@
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^7.28.1"
 
-"@testing-library/user-event@sydneyjodon-wk/user-event#fix-677":
+"@testing-library/user-event@sydneyjodon-wk/user-event#fix-677-test":
   version "0.0.0-semantically-released"
-  resolved "https://codeload.github.com/sydneyjodon-wk/user-event/tar.gz/70b2d82fd89e50731274720283c2ecdbbcc2dea0"
+  resolved "https://codeload.github.com/sydneyjodon-wk/user-event/tar.gz/0c258824c157ed89e0afe37d40de9075daa4520f"
   dependencies:
     "@babel/runtime" "^7.12.5"
 
