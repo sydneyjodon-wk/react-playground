@@ -1626,10 +1626,9 @@
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^7.28.1"
 
-"@testing-library/user-event@^12.1.10":
-  version "12.8.3"
-  resolved "https://workivaeast.jfrog.io/workivaeast/api/npm/npm-prod/@testing-library/user-event/-/user-event-12.8.3.tgz#1aa3ed4b9f79340a1e1836bc7f57c501e838704a"
-  integrity sha1-GqPtS595NAoeGDa8f1fFAeg4cEo=
+"@testing-library/user-event@sydneyjodon-wk/user-event#fix-677":
+  version "0.0.0-semantically-released"
+  resolved "https://codeload.github.com/sydneyjodon-wk/user-event/tar.gz/70b2d82fd89e50731274720283c2ecdbbcc2dea0"
   dependencies:
     "@babel/runtime" "^7.12.5"
 
